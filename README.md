@@ -7,6 +7,7 @@ JobFinder is a job search solution that looks into many providers and display re
 
 JobFinder app incluse:
 - Load data from server using retrofit.
+- Use libs ButterKnive , Lombok
 - Load dynamic provider in one retrofit ,like GitHub/SearchGov.
 - Swipe To refresh list
 - Add custom view if no data found or something happens.
