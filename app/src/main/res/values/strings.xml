@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Job Finder</string>
+    <string name="txt_job_finder">Job Finder</string>
+    <string name="txt_image_logo">ImageLogo</string>
+    <string name="txt_you_re_here_for_a_job">You\'re here for a job</string>
+    <string name="txt_we_re_here_to_help">We\'re here to help</string>
+    <string name="txt_search_position_hint">Job title, keywords, or company</string>
+    <string name="txt_what">WHAT</string>
+    <string name="txt_where">WHERE</string>
+    <string name="txt_search_location_hint">City, state or zip code</string>
+    <string name="txt_find_jobs">Find Jobs</string>
+    <string name="txt_company_name">Company Name</string>
+    <string name="txt_job_title">Job Title</string>
+    <string name="txt_created_date">Created Date</string>
+    <string name="txt_location">Location</string>
+    <string name="txt_view">View</string>
+    <string name="txt_ooops">Ooops!</string>
+    <string name="txt_we_could_t_find_a_match_for_your_search">We could\'t find a match for your search</string>
+    <string name="txt_try_another_search">Try Another Search</string>
+    <string name="txt_jobs_you_search">jobs you search</string>
+    <string name="txt_submit_filter">Submit Filter</string>
+    <string name="select_search_by_provider">Select Filter By Provider</string>
+    <string name="github">GitHub</string>
+    <string name="search_gov">Search.Gov</string>
+    <string name="filter_by_position">Filter By Position</string>
+    <string name="filter_by_location">Filter By Location</string>
+    <string name="txt_select_provider">Please select your provider to filter</string>
+    <string name="txt_no_internet">No internet connection , please try again later</string>
+    <string name="txt_wait_to_load">Wait to load</string>
+
+</resources>
